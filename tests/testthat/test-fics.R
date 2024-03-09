@@ -1,9 +1,9 @@
 # test output
 test_that("fics returns the correct items", {
   expect_equal(fics("Canada")[1],
-               "1. The real truth about Canada is being kept from the public.")
+               "The real truth about Canada is being kept from the public.")
   expect_equal(fics("Canada")[17],
-               "17. An impartial, independent investigation of Canada would show once and for all that we've been lied to on a massive scale.")
+               "An impartial, independent investigation of Canada would show once and for all that we've been lied to on a massive scale.")
 })
 
 # test argument checks
