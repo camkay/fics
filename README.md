@@ -3,8 +3,8 @@
 
 # fics
 
-Contains a function (`fics`) for creating conspiracy items using the
-Flexible Inventory of Conspiracy Suspicions (FICS; Wood, 2017).
+Contains a function (`fics`) for creating conspiracy theory items using
+the Flexible Inventory of Conspiracy Suspicions (FICS; Wood, 2017).
 
 ## Installation
 
@@ -20,9 +20,9 @@ devtools::install_github("camkay/fics")
 
 ### fics
 
-`fics` creates items assessing the belief in a conspiracy about a given
-topic. The items are created using the Flexible Inventory of Conspiracy
-Suspicions (FICS) template (Wood, 2017).
+`fics` creates conspiracy theory items on a specified topic. The items
+are based on the Flexible Inventory of Conspiracy Suspicions (FICS)
+template (Wood, 2017).
 
 ``` r
 fics("Canada")
