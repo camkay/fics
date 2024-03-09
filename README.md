@@ -4,7 +4,8 @@
 # fics
 
 Contains a function (`fics`) for creating conspiracy theory items using
-the Flexible Inventory of Conspiracy Suspicions (FICS; Wood, 2017).
+the Flexible Inventory of Conspiracy Suspicions (FICS) template (Wood,
+2017).
 
 ## Installation
 

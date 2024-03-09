@@ -1,6 +1,6 @@
 #' fics
 #'
-#' A function for creating items assessing the belief in a conspiracy about a given topic. The items are created using the Flexible Inventory of Conspiracy Suspicions (FICS) template (Wood, 2017).
+#' A function for creating conspiracy theory items on a specified topic. The items are based on the Flexible Inventory of Conspiracy Suspicions (FICS) template (Wood, 2017).
 #' @param topic a string indicating the topic the conspiracy belief should be about.
 #' @export
 #' @references
