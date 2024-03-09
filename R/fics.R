@@ -50,7 +50,7 @@ fics <- function(topic) {
              "7. When it comes to _topic_, most people are asleep and need to wake up.",
              "8. Those in power are very nervous that the public will realize the truth about _topic_.",
              "9. We may never know the full truth about _topic_, but it's clear that the mainstream story is a complete lie.",
-             "10. The facts about _topic_ simply don’t match what we’ve been told by `experts` and the mainstream media.",
+             "10. The facts about _topic_ simply don’t match what we’ve been told by 'experts' and the mainstream media.",
              "11. We need a new, unbiased investigation to uncover the real truth about _topic_.",
              "12. Anyone who's been paying attention knows that we're being lied to about _topic_, but most people are simply brainwashed.",
              "13. Reporters, scientists, and government officials are involved in a conspiracy to cover up important information about _topic_.",
