@@ -1,0 +1,18 @@
+Package: fics
+Title: fics
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Cameron",
+           family = "Kay",
+           role = c("aut", "cre"),
+           email = "cameronstuartkay@gmail.com")
+Description: Contains a function (`fics`) for creating conspiracy items using the Flexible Inventory Conspiracy Suspicions (FICS; Wood, 2017).
+Depends: R (>= 3.3.0)
+Imports: 
+License: MIT + file LICENSE
+Date: 2024-03-09
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.0
+Suggests: 
+    testthat (>= 2.1.0)
