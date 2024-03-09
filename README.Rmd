@@ -35,13 +35,12 @@ library(fics)
 options(scipen = 999)
 ```
 
-### column_find
+### fics
 
 `fics` creates items assessing the belief in a conspiracy about a given topic. The items are created using the Flexible Inventory of Conspiracy Suspicions (FICS) template (Wood, 2017).
 
 ```{r fics}
 fics("Canada")
-
 ```
 
 ## References
