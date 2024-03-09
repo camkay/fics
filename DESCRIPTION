@@ -6,7 +6,7 @@ Authors@R:
            family = "Kay",
            role = c("aut", "cre"),
            email = "cameronstuartkay@gmail.com")
-Description: Contains a function (`fics`) for creating conspiracy items using the Flexible Inventory Conspiracy Suspicions (FICS; Wood, 2017).
+Description: Contains a function (`fics`) for creating conspiracy items using the Flexible Inventory of Conspiracy Suspicions (FICS; Wood, 2017).
 Depends: R (>= 3.3.0)
 Imports: 
 License: MIT + file LICENSE

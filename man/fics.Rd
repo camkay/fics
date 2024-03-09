@@ -10,7 +10,7 @@ fics(topic)
 \item{topic}{a string indicating the topic the conspiracy belief should be about.}
 }
 \description{
-A function for creating items assessing the belief in a conspiracy about a given topic. The items are created using the Flexible Inventory Conspiracy Suspicions (FICS) template (Wood, 2017).
+A function for creating items assessing the belief in a conspiracy about a given topic. The items are created using the Flexible Inventory of Conspiracy Suspicions (FICS) template (Wood, 2017).
 }
 \examples{
 fics("Canada")
@@ -23,7 +23,7 @@ fics("Canada")
 [7] "7. When it comes to Canada, most people are asleep and need to wake up."                                                         
 [8] "8. Those in power are very nervous that the public will realize the truth about Canada."                                         
 [9] "9. We may never know the full truth about Canada, but it's clear that the mainstream story is a complete lie."                   
-[10] "10. The facts about Canada simply don’t match what we’ve been told by `experts` and the mainstream media."                       
+[10] "10. The facts about Canada simply don’t match what we’ve been told by 'experts' and the mainstream media."                       
 [11] "11. We need a new, unbiased investigation to uncover the real truth about Canada."                                               
 [12] "12. Anyone who's been paying attention knows that we're being lied to about Canada, but most people are simply brainwashed."     
 [13] "13. Reporters, scientists, and government officials are involved in a conspiracy to cover up important information about Canada."
